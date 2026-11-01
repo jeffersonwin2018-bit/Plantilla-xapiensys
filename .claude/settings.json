@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "xapiensys": {
+      "source": { "source": "github", "repo": "Xapiensys/xapiensys-3d" }
+    }
+  },
+  "enabledPlugins": { "xapiensys-3d@xapiensys": true }
+}
